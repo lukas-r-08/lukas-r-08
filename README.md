@@ -13,7 +13,7 @@ Hier findest du meine Projekte, an denen ich arbeite oder zu denen ich beitrage.
 
 ## 📌 Projekte
 Hier sind einige meiner aktuellen Projekte:
-- 🛠️ **Projekt 1:** Ein Hosting Manager ([Repo-Link soon...]())
+- 🛠️ **Projekt 1:** Ein Hosting Manager (Customer Interface) ([Repo-Link](https://github.com/lukas-r-08/customer-interface))
 <!-- - 📂 **Projekt 2:** Soon... ([Repo-Link]()) -->
 
 ## 📊 GitHub-Statistiken
